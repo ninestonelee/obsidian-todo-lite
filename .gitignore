@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Antigravity
+.gemini/
+
+# Build
+dist/
+build/
+*.egg-info/
+.vercel
+.vercelignore
+
+# Obsidian
+.obsidian/
+Todos.md
+todos/
+
+# Project management (not for deployment)
+.instructions/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+constitution.md
+progress.md
+doc/
+*.png
